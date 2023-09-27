@@ -12,8 +12,8 @@
 
 <div align="center">
 
-![Static Badge](https://img.shields.io/badge/%E6%B3%A0%E9%B8%A2yousa%E7%9A%84B%E7%AB%99%E7%A9%BA%E9%97%B4-bilibili-7290DA?style=for-the-badge&logo=bilibili&logoColor=blue?link=ggg)
-![Static Badge](https://img.shields.io/badge/%E6%B3%A0%E9%B8%A2yousa%E4%BA%8C%E5%88%9B%E7%BB%84%E5%AE%98%E6%96%B9%E5%8F%B7-bilibili-7290DA?style=for-the-badge&logo=bilibili&logoColor=blue)
+[![Static Badge](https://img.shields.io/badge/%E6%B3%A0%E9%B8%A2yousa%E7%9A%84B%E7%AB%99%E7%A9%BA%E9%97%B4-bilibili-7290DA?style=for-the-badge&logo=bilibili&logoColor=blue?link=ggg)](https://space.bilibili.com/282994)
+[![Static Badge](https://img.shields.io/badge/%E6%B3%A0%E9%B8%A2yousa%E4%BA%8C%E5%88%9B%E7%BB%84%E5%AE%98%E6%96%B9%E5%8F%B7-bilibili-7290DA?style=for-the-badge&logo=bilibili&logoColor=blue)](https://space.bilibili.com/434021034)
 
 </div>
 
