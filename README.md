@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/yousa-ling-official-production/pic/main/%E7%AB%8B%E7%BB%98%E4%BA%BA%E7%89%A9_2.png" alt="Artwork" width="200" />
 </p>
 
-<h2 align="center">泠鸢yousa二创组官方号 GitHub仓库</h2>
+<h2 align="center">泠鸢yousa创作组官方号 GitHub仓库</h2>
 
 <p align="center">
     我们的故事仍未写完，愿我们相遇时尽是美好<br>
@@ -19,7 +19,7 @@
 
 ## 欢迎！
 
-欢迎来到 泠鸢yousa二创组官方号的GitHub仓库
+欢迎来到 泠鸢yousa创作组官方号的GitHub仓库
 
 本账号旨在收集与泠鸢yousa及其衍生相关的代码类创作（包括但不限于AI泠鸢等项目）
 
