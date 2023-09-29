@@ -24,3 +24,6 @@
 本账号旨在收集与泠鸢yousa及其衍生相关的代码类创作（包括但不限于AI泠鸢等项目）
 
 本仓库正在持续更新中~
+
+## 作品导航
+[泠鸢yousa Diffsinger V1版模型文件](https://github.com/yousa-ling-official-production/yousa-ling-diffsinger-v1/releases/tag/v1.0)
