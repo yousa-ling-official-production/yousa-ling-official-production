@@ -26,4 +26,4 @@
 本仓库正在持续更新中~
 
 ## 作品导航
-[泠鸢yousa Diffsinger V1版模型文件](https://github.com/yousa-ling-official-production/yousa-ling-diffsinger-v1/releases/tag/v1.0)
+[泠鸢yousa Diffsinger V1版模型文件](https://github.com/yousa-ling-official-production/yousa-ling-diffsinger-v1/releases/tag/v1.3)
